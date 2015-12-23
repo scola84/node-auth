@@ -25,7 +25,8 @@
     ]
   },
   "browser": {
-    "./lib/password/server/index.js": false
+    "./lib/password/server/index.js": false,
+    "./lib/token/server/index.js": false
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.3.13",
