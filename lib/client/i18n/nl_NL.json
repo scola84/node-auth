@@ -1,4 +1,12 @@
 {
-  "@scola.mva.timeout": "Er is een timeout opgetreden",
-  "@scola.auth.user-not-found": "Uw gegevens zijn incorrect."
+  "@scola": {
+    "auth": {
+      "user-not-found": "Met deze gegevens kunt u niet inloggen."
+    },
+    "mva": {
+      "messenger": {
+        "timeout": "De server reageerde niet op tijd. Probeer het nogmaals."
+      }
+    }
+  }
 }
