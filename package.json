@@ -15,8 +15,7 @@
   "browserify": {
     "transform": [
       [
-        "babelify",
-        {
+        "babelify", {
           "presets": [
             "es2015"
           ]
@@ -35,9 +34,9 @@
     "@scola/config": "^1.0.2",
     "@scola/di": "^1.0.1",
     "@scola/mva": "^1.0.0",
+    "@scola/mva-preset-view": "^1.0.0",
     "@scola/storage-browser": "^1.0.0",
     "@scola/validator": "^1.0.1",
-    "@scola/views": "^1.0.0",
     "jsonwebtoken": "^5.4.1"
   }
 }

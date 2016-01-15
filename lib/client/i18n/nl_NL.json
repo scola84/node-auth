@@ -1,11 +1,14 @@
 {
   "@scola": {
     "auth": {
-      "user-not-found": "Met deze gegevens kunt u niet inloggen."
-    },
-    "mva": {
-      "messenger": {
-        "timeout": "De server reageerde niet op tijd. Probeer het nogmaals."
+      "error": {
+        "user-not-found": "Met deze gegevens kunt u niet inloggen."
+      },
+      "input": {
+        "keep-signed-in": "Laat mij ingelogd blijven",
+        "password": "Wachtwoord",
+        "sign-in": "Inloggen",
+        "username": "Gebruikersnaam"
       }
     }
   }
