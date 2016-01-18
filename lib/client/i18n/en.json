@@ -1,0 +1,15 @@
+{
+  "@scola": {
+    "auth": {
+      "error": {
+        "user-not-found": "With these credentials you cannot sign in."
+      },
+      "input": {
+        "keep-signed-in": "Keep me signed in",
+        "password": "Password",
+        "sign-in": "Sign in",
+        "username": "Username"
+      }
+    }
+  }
+}
